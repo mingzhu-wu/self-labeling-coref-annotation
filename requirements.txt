@@ -1,0 +1,5 @@
+stanfordcorenlp==3.9.1
+nltk
+spacy
+multiprocessing
+termcolor
